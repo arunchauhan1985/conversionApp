@@ -1,0 +1,48 @@
+<auth>
+  <app_domain>MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|AZDigitalConv03|WIN-H8T2F7MMFK9|GuruKripa-PC</app_domain>
+  <application id="PearsonLRToolKit">
+    <application_name>Pearson LR ToolKit</application_name>
+    <application_expiry>30/11/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="MagicBox_Auto_Ingestion">
+    <application_name>MagicBox Auto Ingestion</application_name>
+    <application_expiry>30/11/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="MagicBox_Screenshot_Tool">
+    <application_name>MagicBox ScreenShot Tool</application_name>
+    <application_expiry>30/11/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="BTToolkit">
+    <application_name>BT Toolkit</application_name>
+    <application_expiry>30/11/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+   <application id="ECSPrepwork">
+    <application_name>ECS Prepwork</application_name>
+    <application_expiry>31/12/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="VNV">
+    <application_name>PDF Validation and Verification</application_name>
+    <application_expiry>31/12/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="IMML">
+    <application_name>Image to MathML and Latex</application_name>
+    <application_expiry>20/11/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+  <application id="TPAL">
+    <application_name>HMH: T-PAL Implementation</application_name>
+    <application_expiry>20/11/2019</application_expiry>
+    <app_start>true</app_start>
+  </application>
+ <application id="PDF2IMAGE">
+    <application_name>PDF to Image</application_name>
+    <application_expiry>25/12/2018</application_expiry>
+    <app_start>true</app_start>
+  </application>
+</auth>
