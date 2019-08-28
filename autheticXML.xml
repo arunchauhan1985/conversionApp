@@ -152,4 +152,14 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
+  <application id="json2smil">
+    <application_name>JSON to SMIL Tool</application_name>
+    <application_expiry>31/08/2020</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
 </auth>
