@@ -179,4 +179,20 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
+      <application id="jpdconversion">
+    <application_name>Ebook Deck</application_name>
+    <application_expiry>31/09/2019</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.3</version>
+    <updated_version>1.0.3</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+    <server>10.11.7.77</server>
+    <dbName>ebooks</dbName>
+    <uid>root</uid>
+    <passwd>root</passwd>
+  </serverDetails>
+  </application>
 </auth>
