@@ -103,7 +103,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
     <serverDetails>
-    <server>10.11.2.226</server>
+    <server>10.11.7.77</server>
     <dbName>ebooks</dbName>
     <uid>root</uid>
     <passwd>root</passwd>
