@@ -43,9 +43,9 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
-  <application id="ECSPrepwork">
-    <application_name>ECS Prepwork</application_name>
-    <application_expiry>31/12/2018</application_expiry>
+  <application id="ant_wiley">
+    <application_name>Wiley Automation Solution</application_name>
+    <application_expiry>31/12/2019</application_expiry>
     <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
