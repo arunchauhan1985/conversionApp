@@ -46,7 +46,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="ant_wiley">
     <application_name>Wiley Automation Solution</application_name>
     <application_expiry>31/12/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -67,7 +67,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="IMML">
     <application_name>Image to MathML and Latex</application_name>
     <application_expiry>20/11/2018</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -87,7 +87,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="PDF2IMAGE">
     <application_name>PDF to Image</application_name>
     <application_expiry>25/12/2018</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -113,7 +113,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="htmlviewer">
     <application_name>HTML Viewer</application_name>
     <application_expiry>31/12/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -123,7 +123,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="chromeviewer">
     <application_name>Chrome Viewer and Editor</application_name>
     <application_expiry>31/12/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
