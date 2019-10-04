@@ -97,7 +97,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="aenytoolkit">
     <application_name>AENY TOOLKIT</application_name>
     <application_expiry>31/12/2019</application_expiry>
-    <app_start>false</app_start>
+    <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
