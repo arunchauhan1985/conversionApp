@@ -16,7 +16,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="MagicBox_Auto_Ingestion">
     <application_name>MagicBox Auto Ingestion</application_name>
     <application_expiry>30/11/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -26,7 +26,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="MagicBox_Screenshot_Tool">
     <application_name>MagicBox ScreenShot Tool</application_name>
     <application_expiry>30/11/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -123,7 +123,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="a_ztoolkit">
     <application_name>A-Z TOOLKIT</application_name>
     <application_expiry>31/12/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
