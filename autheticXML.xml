@@ -36,7 +36,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="BTToolkit">
     <application_name>BT Toolkit</application_name>
     <application_expiry>30/11/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -46,7 +46,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
    <application id="ReadingOrder">
     <application_name>EPUB Reading Correction Tool</application_name>
     <application_expiry>31/03/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -67,7 +67,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="VNV">
     <application_name>PDF Validation and Verification</application_name>
     <application_expiry>31/12/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -87,7 +87,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="TPAL">
     <application_name>HMH: T-PAL Implementation</application_name>
     <application_expiry>20/11/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -179,7 +179,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
    <application id="image2mathHMH">
     <application_name>Image to MATH Tool</application_name>
     <application_expiry>31/08/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
@@ -189,7 +189,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   <application id="json2smil">
     <application_name>JSON to SMIL Tool</application_name>
     <application_expiry>31/08/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
@@ -199,7 +199,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <application id="pdfutility">
     <application_name>PDF Manipulation Utitliy</application_name>
     <application_expiry>31/09/2019</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.3</version>
     <updated_version>1.0.3</updated_version>
     <download_link></download_link>
