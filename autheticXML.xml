@@ -43,6 +43,16 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
+   <application id="ImageSolution2020">
+    <application_name>BT Toolkit</application_name>
+    <application_expiry>30/11/2020</application_expiry>
+    <app_start>true</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
    <application id="ReadingOrder">
     <application_name>EPUB Reading Correction Tool</application_name>
     <application_expiry>31/03/2020</application_expiry>
