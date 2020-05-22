@@ -188,8 +188,8 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
   <application id="image2math">
     <application_name>Image to MATH Tool</application_name>
-    <application_expiry>31/08/2019</application_expiry>
-    <app_start>false</app_start>
+    <application_expiry>31/06/2019</application_expiry>
+    <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
@@ -198,8 +198,8 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
    <application id="image2mathHMH">
     <application_name>Image to MATH Tool</application_name>
-    <application_expiry>31/08/2020</application_expiry>
-    <app_start>false</app_start>
+    <application_expiry>30/06/2020</application_expiry>
+    <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
