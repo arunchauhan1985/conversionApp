@@ -252,4 +252,20 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <passwd>root</passwd>
   </serverDetails>
   </application>
+     <application id="hmhwebfontsmapper">
+    <application_name>WebFontMapper</application_name>
+    <application_expiry>30/06/2020</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+    <server>10.11.7.77</server>
+    <dbName>ebooks</dbName>
+    <uid>root</uid>
+    <passwd>root</passwd>
+  </serverDetails>
+  </application>
 </auth>
