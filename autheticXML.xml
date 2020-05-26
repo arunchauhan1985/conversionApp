@@ -255,7 +255,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
      <application id="hmhwebfontsmapper">
     <application_name>WebFontMapper</application_name>
     <application_expiry>30/06/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
