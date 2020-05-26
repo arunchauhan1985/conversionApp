@@ -239,7 +239,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
       <application id="jpdconversion">
     <application_name>Ebook Deck</application_name>
     <application_expiry>31/09/2019</application_expiry>
-    <app_start>false</app_start>
+    <app_start>true</app_start>
     <version>1.0.3</version>
     <updated_version>1.0.3</updated_version>
     <download_link></download_link>
