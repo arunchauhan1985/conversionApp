@@ -280,8 +280,8 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
     <serverDetails>
     <server>10.11.7.77</server>
     <dbName>none</dbName>
-    <uid>magic, demo</uid>
-    <passwd>magicsw, magicsw</passwd>
+    <uid>[magic], [demo]</uid>
+    <passwd>[magicsw], [magicsw]</passwd>
   </serverDetails>
   </application>
 </auth>
