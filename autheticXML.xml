@@ -254,7 +254,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
      <application id="hmhwebfontsmapper">
     <application_name>WebFontMapper</application_name>
-    <application_expiry>30/06/2020</application_expiry>
+    <application_expiry>30/07/2020</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
@@ -270,7 +270,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
    <application id="pistoryboard">
     <application_name>Story Board Execution</application_name>
-    <application_expiry>30/06/2020</application_expiry>
+    <application_expiry>30/07/2020</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
