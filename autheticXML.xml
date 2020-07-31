@@ -312,7 +312,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
   <application id="capstonesmilsplitter">
     <application_name>Capstone SMIL Splitter</application_name>
-    <application_expiry>30/07/2020</application_expiry>
+    <application_expiry>30/08/2020</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
