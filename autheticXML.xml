@@ -35,7 +35,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|
   </application>
   <application id="BTToolkit">
     <application_name>BT Toolkit</application_name>
-    <application_expiry>30/07/2020</application_expiry>
+    <application_expiry>30/08/2020</application_expiry>
     <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
