@@ -1,7 +1,6 @@
 <auth>
   <app_domain>
-MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|AZDigitalConv02|AZDigitalConv01|AZDigitalConv03|WIN-H8T2F7MMFK9|GuruKripa-PC|Jeet-PC|Aenyvish|DESKTOP-MNJL81E|Pradeep Maurya
-</app_domain>
+MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC</app_domain>
   
   <application id="PearsonLRToolKit">
     <application_name>Pearson LR ToolKit</application_name>
