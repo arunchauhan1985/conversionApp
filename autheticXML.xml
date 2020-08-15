@@ -45,7 +45,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   <application id="HCToolkit">
     <application_name>Harper Collins Toolkit</application_name>
     <application_expiry>30/07/2021</application_expiry>
-    <app_start>false</app_start>
+    <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
