@@ -64,8 +64,8 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   </application>
    <application id="ReadingOrder">
     <application_name>EPUB Reading Correction Tool</application_name>
-    <application_expiry>10/07/2021</application_expiry>
-    <app_start>false</app_start>
+    <application_expiry>10/08/2020</application_expiry>
+    <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
