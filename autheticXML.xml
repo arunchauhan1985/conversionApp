@@ -217,8 +217,8 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   </application>
      <application id="RPLUS">
     <application_name>Reader Plus PDF Conversion Tool</application_name>
-    <application_expiry>31/08/2020</application_expiry>
-    <app_start>false</app_start>
+    <application_expiry>31/09/2020</application_expiry>
+    <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
