@@ -9,19 +9,16 @@
 	"ConnectionString": "",
 	"email": "",
 	"emailpass": "",
-	"FeaturesInfo": [
-		{
-			"1": "Convert",
-			"2": "PDF Validation",
-			"3": "Comparison",
-			"4": "EPUB Validation",
-			"5": "WordId",
-			"6": "OPF Creation"
-		}
-	],
-	"UserInfo": {
-		"user": [
-			{
+	"FeaturesInfo": {
+		"1": "Convert",
+		"2": "PDF Validation",
+		"3": "Comparison",
+		"4": "EPUB Validation",
+		"5": "WordId",
+		"6": "OPF Creation"
+	},
+	"UserInfo": [{
+			"user": {
 				"uid": "RPLUSUSR-001",
 				"passcode": "demo@123",
 				"limit": 10,
@@ -33,7 +30,7 @@
 				"expirydate": "30/09/2020",
 				"activeFeatures": "[1,2,3,4,5,6]"
 			},
-			{
+			"user": {
 				"uid": "K12USR-001",
 				"passcode": "demo@123",
 				"limit": 10,
@@ -45,7 +42,7 @@
 				"expirydate": "30/09/2020",
 				"activeFeatures": "[1,2,3,4,5,6]"
 			},
-			{
+			"user": {
 				"uid": "magic",
 				"passcode": "magicsw",
 				"limit": 10,
@@ -57,6 +54,6 @@
 				"expirydate": "30/09/2020",
 				"activeFeatures": "[1,2,3,4,5,6]"
 			}
-		]
-	}
+		}
+	]
 }
