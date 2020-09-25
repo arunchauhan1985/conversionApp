@@ -10,27 +10,27 @@
     "email": "",
     "emailpass": "",
     "Features": [
-        "feature": {
+        "featureInfo": {
             "key": "1",
             "value": "Convert"
         },
-        "feature": {
+        "featureInfo": {
             "key": "2",
             "value": "PDF Validation"
         },
-        "feature": {
+        "featureInfo": {
             "key": "3",
             "value": "Comparison"
         },
-        "feature": {
+        "featureInfo": {
             "key": "4",
             "value": "EPUB Validation"
         },
-        "feature": {
+        "featureInfo": {
             "key": "5",
             "value": "WordId"
         },
-        "feature": {
+        "featureInfo": {
             "key": "6",
             "value": "OPF Creation"
         }
