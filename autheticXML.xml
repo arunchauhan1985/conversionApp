@@ -7,6 +7,8 @@
 	"server":"",
 	"downloadUrl":"",
 	"ConnectionString":"",
+	"email":"",
+	"emailpass":"",
 	"Features": [{
             "1": "Convert",
 			"2": "PDF Validation",
@@ -56,5 +58,3 @@
         }
     ],
 }
-
-
