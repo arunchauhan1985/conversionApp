@@ -18,7 +18,7 @@
 			"6":"OPF Creation"
         }
     ],
-    "Users": [
+    "Users": [{
             "user": {
                 "uid": "RPLUSUSR-001",
                 "passcode": "demo@123",
@@ -30,7 +30,8 @@
 				"message":"",
 				"expirydate":"30/09/2020",
 				"activeFeatures":"[1,2,3,4,5,6]"
-            },
+            },},
+			{
 			"user": {
                 "uid": "K12USR-001",
                 "passcode": "demo@123",
@@ -42,7 +43,7 @@
 				"message":"",
 				"expirydate":"30/09/2020",
 				"activeFeatures":"[1,2,3,4,5,6]"
-            },
+            },},{
 			"user": {
                 "uid": "magic",
                 "passcode": "magicsw",
@@ -54,6 +55,6 @@
 				"message":"",
 				"expirydate":"30/09/2020",
 				"activeFeatures":"[1,2,3,4,5,6]"
-            },
+            },}
     ],
 }
