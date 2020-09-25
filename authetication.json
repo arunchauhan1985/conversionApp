@@ -1,60 +1,62 @@
 {
-    "Id": "PDFEPUB0001",
+	"Id": "PDFEPUB0001",
 	"DomainAccess": "MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01",
-    "Name": "PDF to EPUB Conversion",
-    "Expiry": "30/09/2020",
-	"DatabaseApi":"",
-	"server":"",
-	"downloadUrl":"",
-	"ConnectionString":"",
-	"email":"",
-	"emailpass":"",
-	"FeaturesInfo": [{
-			"1":"Convert",
-			"2":"PDF Validation",
-			"3":"Comparison",
-			"4":"EPUB Validation",
-			"5":"WordId",
-			"6":"OPF Creation"
-        }
-    ],
-    "Users": [{
-            "user": {
-                "uid": "RPLUSUSR-001",
-                "passcode": "demo@123",
-				"limit":10,
-				"active":false,
-				"currentVer":"1.0.1",
-				"updatedVer":"1.0.1",
-				"ipEnable":"",
-				"message":"",
-				"expirydate":"30/09/2020",
-				"activeFeatures":"[1,2,3,4,5,6]"
-            },},
+	"Name": "PDF to EPUB Conversion",
+	"Expiry": "30/09/2020",
+	"DatabaseApi": "",
+	"server": "",
+	"downloadUrl": "",
+	"ConnectionString": "",
+	"email": "",
+	"emailpass": "",
+	"FeaturesInfo": [
+		{
+			"1": "Convert",
+			"2": "PDF Validation",
+			"3": "Comparison",
+			"4": "EPUB Validation",
+			"5": "WordId",
+			"6": "OPF Creation"
+		}
+	],
+	"UserInfo": {
+		"user": [
 			{
-			"user": {
-                "uid": "K12USR-001",
-                "passcode": "demo@123",
-				"limit":10,
-				"active":false,
-				"currentVer":"1.0.1",
-				"updatedVer":"1.0.1",
-				"ipEnable":"",
-				"message":"",
-				"expirydate":"30/09/2020",
-				"activeFeatures":"[1,2,3,4,5,6]"
-            },},{
-			"user": {
-                "uid": "magic",
-                "passcode": "magicsw",
-				"limit":10,
-				"active":false,
-				"currentVer":"1.0.1",
-				"updatedVer":"1.0.1",
-				"ipEnable":"",
-				"message":"",
-				"expirydate":"30/09/2020",
-				"activeFeatures":"[1,2,3,4,5,6]"
-            },}
-    ],
+				"uid": "RPLUSUSR-001",
+				"passcode": "demo@123",
+				"limit": 10,
+				"active": false,
+				"currentVer": "1.0.1",
+				"updatedVer": "1.0.1",
+				"ipEnable": "",
+				"message": "",
+				"expirydate": "30/09/2020",
+				"activeFeatures": "[1,2,3,4,5,6]"
+			},
+			{
+				"uid": "K12USR-001",
+				"passcode": "demo@123",
+				"limit": 10,
+				"active": false,
+				"currentVer": "1.0.1",
+				"updatedVer": "1.0.1",
+				"ipEnable": "",
+				"message": "",
+				"expirydate": "30/09/2020",
+				"activeFeatures": "[1,2,3,4,5,6]"
+			},
+			{
+				"uid": "magic",
+				"passcode": "magicsw",
+				"limit": 10,
+				"active": false,
+				"currentVer": "1.0.1",
+				"updatedVer": "1.0.1",
+				"ipEnable": "",
+				"message": "",
+				"expirydate": "30/09/2020",
+				"activeFeatures": "[1,2,3,4,5,6]"
+			}
+		]
+	}
 }
