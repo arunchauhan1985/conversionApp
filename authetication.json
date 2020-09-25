@@ -10,12 +10,30 @@
 	"email":"",
 	"emailpass":"",
 	"Features": [{
-            "1": "Convert",
-			"2": "PDF Validation",
-			"3": "Comparison",
-			"4": "EPUB Validation",
-			"5": "WordId",
-			"6": "OPF Creation"
+			"feature": {
+				"key": "1",
+				"value":"Convert"
+			},
+			"feature": {
+				"key": "2",
+				"value":"PDF Validation"
+			},
+			"feature": {
+				"key": "3",
+				"value":"Comparison"
+			},
+			"feature": {
+				"key": "4",
+				"value":"EPUB Validation"
+			},
+			"feature": {
+				"key": "5",
+				"value":"WordId"
+			},
+			"feature": {
+				"key": "6",
+				"value":"OPF Creation"
+			}
         }
     ],
     "Users": [{
